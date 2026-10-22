@@ -1,0 +1,8 @@
+# Syntax-check every addon and run the offline test suite on each push.
+test:
+  image: debian:bookworm-slim
+  before_script:
+    - apt-get update -qq
+    - apt-get install -y -qq lua5.1 > /dev/null
+  script:
+    - bash tests/run.sh

@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: ArenaFrames
+## Notes: Arena frames + Blizzard-style player/target/focus frames: CC on the portrait, casts, auras, trinket, DR, Sap. /aframes
+## Version: 3.21.1
+## SavedVariables: ArenaFramesDB
+DRList.lua
+ArenaFrames.lua

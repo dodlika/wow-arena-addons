@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: CombatPlates
+## Notes: Icon on enemy nameplates while they're in combat (or Sap icon while they're not). /cplates
+## Version: 1.7
+## SavedVariables: CombatPlatesDB
+CombatPlates.lua
