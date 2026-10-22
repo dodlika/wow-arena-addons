@@ -7,6 +7,9 @@ Arena addons for WoW 3.3.5a (WotLK) on Warmane. Plain Lua, no client patches, no
 | CombatPlates | Swords / Sap icon on enemy nameplates based on combat state (`/cplates`) |
 | ArenaFrames | Clean arena, target and focus frames: CC on the portrait, casts, auras, trinket, DR (`/aframes`) |
 
+
+**New here? Read the [walkthrough](GUIDE.md)**: install, placing the frames, what everything means.
+
 ## Install
 
 **Without git:** click the green **Code** button on GitHub, then **Download ZIP**. Unzip it and copy the
